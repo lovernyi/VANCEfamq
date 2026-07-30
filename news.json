@@ -2,10 +2,10 @@
   {
     "Id": "default-1",
     "Category": "UPDATE",
-    "Title": "\uD83D\uDE80 \u0420\u0435\u043B\u0438\u0437 Enterprise Suite v1.1.0",
+    "Title": "\uD83D\uDE80 Релиз Enterprise Suite v1.1.0",
     "Version": "v1.1.0",
     "Author": "Lance Vance (lovernyi)",
     "Date": "30.07.2026",
-    "Content": "123 \u0438 \u0447\u0435 \u0438 \u0447\u0435"
+    "Content": "Добавлен новый вид интерфейса"
   }
 ]
